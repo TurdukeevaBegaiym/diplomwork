@@ -70,3 +70,22 @@ header {
 .grey {
   color: #757575;
 }
+
+.buttons {
+  display: flex;
+  border-radius: none;
+}
+.pink {
+  width: 154px;
+  height: 40px;
+  background-color: #E48D8B;
+}
+.watch {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 40px;
+  margin-left: 10px;
+  background-color: #EDEDED;
+}
