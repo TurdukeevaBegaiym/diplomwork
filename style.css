@@ -116,3 +116,22 @@ header {
 .block.two {
   margin-top: 150px;
 }
+.mikrophone h3 {
+  width: 334px;
+}
+.person h3 {
+  width: 274px;
+}
+.shaika h3 {
+  width: 294px;
+}
+p.similar  {
+  width: 255px;
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+} 
+.differ {
+  width: 250px;
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+}
