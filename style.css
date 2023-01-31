@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.topbar {
+  background-color: #EDEDED;
+}
+.bar {
+  display: flex;
+  justify-content: center;
+}
+.red {
+  color: #D87775;
+  margin-left: 15px;
+}
