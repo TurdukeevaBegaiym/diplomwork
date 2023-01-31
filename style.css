@@ -12,3 +12,11 @@
   color: #D87775;
   margin-left: 15px;
 }
+header {
+  background: #FBFBFB;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
