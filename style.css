@@ -150,3 +150,8 @@ p.similar  {
 .block.four {
   background-color:#017CFF;
 }
+.col span {
+  font-size: 80px;
+  font-weight: 700;
+  color: white;
+}
