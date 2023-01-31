@@ -135,3 +135,15 @@ p.similar  {
   font-family: 'Inter', sans-serif;
   font-size: 18px;
 }
+.block.three {
+  margin-top: 180px;
+}
+.teach {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+  width: 493px;
+}
+.podcas h2 {
+  width: 500px;
+}
