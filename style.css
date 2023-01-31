@@ -32,6 +32,11 @@ h6 {
   max-width: 1186px;
   margin: 0 auto; 
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 .topbar {
   background-color: #EDEDED;
 }
@@ -49,7 +54,7 @@ header {
 }
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   padding: 20px;
 }
 .button {
@@ -77,15 +82,31 @@ header {
 }
 .pink {
   width: 154px;
-  height: 40px;
   background-color: #E48D8B;
+  color: white;
 }
 .watch {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 170px;
-  height: 40px;
   margin-left: 10px;
   background-color: #EDEDED;
+  color: #757575;
+}
+.big {
+  font-size: 31px;
+  font-weight: 700;
+}
+.col-6 {
+  flex:50% 1 1;
+}
+.woman {
+  width: 583px;
+}
+.podcastt {
+  width: 494px;
+}
+.loremone {
+  width: 300px;
 }
