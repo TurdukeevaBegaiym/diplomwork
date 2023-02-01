@@ -49,12 +49,17 @@ h6 {
   color: #D87775;
   margin-left: 15px;
 }
+.logo {
+  width: 140px;
+  height: 24px;
+}
 header {
   background: #FBFBFB;
 }
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 20px;
 }
 .button {
