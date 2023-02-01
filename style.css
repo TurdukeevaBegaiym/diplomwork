@@ -183,3 +183,15 @@ p.similar  {
   margin-left: 1150px;
   margin-top: 50px;
 }
+.column {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 600px;
+  height: 66px;
+  background-color:#DAD9D9;
+  margin: 8px 0;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
