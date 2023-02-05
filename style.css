@@ -242,7 +242,7 @@ strong {
 }
 .line {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .question{
   text-align: start;
@@ -255,4 +255,8 @@ img.vec {
 }
 .question h2 {
   font-weight: 400;
+}
+.block.eight .container {
+  width: 800px;
+
 }
