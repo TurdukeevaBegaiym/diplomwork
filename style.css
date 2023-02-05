@@ -187,7 +187,7 @@ p.similar  {
 }
 .col-12 {
   width: 100%;
-  text-align: center;
+  text-align: center; 
   margin-top: 80px;
 }
 .column {
@@ -239,4 +239,20 @@ p.similar  {
 }
 strong {
   color: #E48D8B;
+}
+.line {
+  display: flex;
+  justify-content: space-around;
+}
+.question{
+  text-align: start;
+}
+
+img.vec {
+  width: 14.11px;
+  height: 7.35px;
+  margin-top: 20px;
+}
+.question h2 {
+  font-weight: 400;
 }
