@@ -222,3 +222,21 @@ p.similar  {
 .block.seven {
   margin-top: 50px;
 }
+.dark {
+  background-color: #194677;
+}
+.mathew {
+  text-align: center;
+  margin: 50px 0 ;
+  padding: 60px 0;
+}
+.mathew h3 {
+  width: 646px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+strong {
+  color: #E48D8B;
+}
