@@ -218,3 +218,7 @@ p.similar  {
 .col-3 {
   flex: 1 1 25%;
 }
+
+.block.seven {
+  margin-top: 50px;
+}
