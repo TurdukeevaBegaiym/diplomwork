@@ -114,6 +114,9 @@ header {
 .man {
   max-width: 100%;
 }
+.micro {
+max-width: 100%;
+}
 .podcastt {
   width: 494px;
 }
