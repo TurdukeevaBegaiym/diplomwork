@@ -283,3 +283,8 @@ img.vec {
   margin-right: auto;
 
  }
+ .checks {
+  display: flex;
+  margin-left: 50px;
+  padding: 0;
+}
