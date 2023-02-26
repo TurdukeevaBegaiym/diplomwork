@@ -29,7 +29,7 @@ h6 {
   font-weight: 400;
 }
 .container{
-  max-width: 1186px;
+  max-width: 80%;
   margin: 0 auto; 
 }
 .row {
