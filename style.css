@@ -288,3 +288,8 @@ img.vec {
   margin-left: 50px;
   padding: 0;
 }
+img.check {
+  width: 22px;
+  height: 23px;
+  margin-top: 10px;
+}
