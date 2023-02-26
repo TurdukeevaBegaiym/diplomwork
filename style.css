@@ -293,3 +293,12 @@ img.check {
   height: 23px;
   margin-top: 10px;
 }
+.nine {
+  font-size: 35px;
+  color: #017CFF;
+  font-weight: 400;
+ }
+ .twenty {
+  color: #757575;
+  font-size: 20px;
+ }
