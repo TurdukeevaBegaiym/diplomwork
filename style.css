@@ -36,6 +36,13 @@ h6 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  width: 100%;
+}
+section {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
 }
 .topbar {
   background-color: #EDEDED;
@@ -91,6 +98,8 @@ header {
   width: 154px;
   background-color: #E48D8B;
   color: white;
+  border: none;
+  cursor: pointer;
 }
 .watch {
   display: flex;
@@ -100,6 +109,9 @@ header {
   margin-left: 10px;
   background-color: #EDEDED;
   color: #757575;
+  border: none;
+  cursor: pointer;
+  
 }
 .big {
   font-size: 31px;
@@ -271,7 +283,6 @@ img.vec {
   margin-top: 100px;
 }
 .pinks h2 {
-  padding-top: 100px;
   padding-bottom: 50px;
   text-align: center;
 }
@@ -302,3 +313,11 @@ img.check {
   color: #757575;
   font-size: 20px;
  }
+ .btn {
+  margin-bottom: 30px;
+}
+.thirty {
+  width: 230px; 
+  margin-left: auto;
+  margin-right: auto;
+}
