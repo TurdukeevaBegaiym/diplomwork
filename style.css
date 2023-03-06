@@ -288,10 +288,8 @@ img.vec {
 }
 .card-content {
   background-color:white;
-  width: 430px;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin-right: 20px;
 
  }
  .checks {
@@ -320,4 +318,11 @@ img.check {
   width: 230px; 
   margin-left: auto;
   margin-right: auto;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+.line {
+  border-bottom: 1px solid #DBDBDB;
 }
